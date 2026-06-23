@@ -7,6 +7,7 @@ Tutorial video:
 https://www.youtube.com/watch?v=5cDO1W_Qvsk
 
 changes: Version 2.6 can handle images whose encoded byte length exceeds the original record.
+        
          Version 2.10 can encode images without replacing an already existing one (it can extend UNIT.DBI)
 
 
