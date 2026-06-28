@@ -2,7 +2,7 @@
 Decoding and Encoding in Disciples Sacred Lands
 
 With this script its possible to decode, encode, replace images in Disciples Sacred Lands. 
-It theorically works with every .DBI (but havent been tested of every one yet)
+It works with every .DBI in theory (but havent been tested of every one yet)
 
 OLD Tutorial video: (need to make a new one!)
 https://www.youtube.com/watch?v=5cDO1W_Qvsk
