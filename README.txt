@@ -66,5 +66,3 @@ enter
 	and paste into Disciples Sacred Lands Imgs1 directory, and rename it to UNIT.DBI 
 	overwrite the original (make backup first!)
 
-
-IMGGRAB.BIN was used from dsl-unpacker made by HSerg
