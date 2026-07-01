@@ -1,5 +1,0 @@
-python fd_portrait_codec_v2_36.py decode UNIT.DBI portraits\
-
-or
-
-python fd_portrait_codec_v2_36.py decodeall
