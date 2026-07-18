@@ -1,12 +1,17 @@
 # Disciples-Sacred-Lands-Modding-Tool
 Decoding and Encoding in Disciples Sacred Lands (image and animation and sound)
+DBF Editor for Disciples Sacred Lands (second tab)
 
-Current version: 1.44
+Current version: 1.43
 
 The .zip and .rar contains the same files, you can download and extract, whichever you like, then run the DisciplesModTool.exe!
 
 With this tool its possible to decode, encode, replace images/animations/sounds in Disciples Sacred Lands. 
 (you can use .PNG or .BMP files for images, .GIF files for animations and .WAV files for sound!
+
+With this tool its possible to browse and edit .dbf files for Disciples Sacred Lands!
+It can show and generate evolution chains, you can save your mod, you can reset your mod, you can make a diff file to share your mod, you can load your mods with it too!
+(Read info first) When you first use .dbf editor you should make a baseline file so you can use delete, reset and see differences. 
 
 Please note that new item function is not tested on every file yet! (you can extend unit.dbi, midgard.dbi, all .ff files safely, but always make backups, if you are about to extend other files)
 
