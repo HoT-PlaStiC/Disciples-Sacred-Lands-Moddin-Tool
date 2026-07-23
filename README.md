@@ -6,7 +6,7 @@ DBF Editor for Disciples Sacred Lands (second tab)
 -----------------------------------------------------------------------------------
 Current version: 1.57
 *********************************************
-New function while encoding large portrait into UNIT.DBI: Cropper (you can add the 55x67 portrait to you 115x67 portraits in the same time)
+New function while encoding large portrait into UNIT.DBI: Cropper (you can add the 55x67 portrait to your 115x67 portraits in the same time)
 
 (fixed a bug, when deleting an automatic generated unit chain unit, and it deleted the original Tglobal records)
 
